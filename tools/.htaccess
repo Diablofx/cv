@@ -1,0 +1,4 @@
+AuthUserFile "/var/www/cv.perret.ovh/htdocs/tools/.htpasswd"
+AuthName "Protected Folder"
+AuthType Basic
+Require valid-user
